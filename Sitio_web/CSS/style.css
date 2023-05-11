@@ -1,0 +1,12 @@
+body {
+    margin: 0cm;
+}
+.cover {
+    height: 400px;
+    background-image: url("C:/Users/LAB-E/Desktop/sitio.web-main/Sitio_web/img/Portada.jpg");
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+}
