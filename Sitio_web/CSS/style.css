@@ -24,3 +24,10 @@ body {
     font-family: Dancing Script, cursive;
     min-height: 3rem;
 }
+h1 {
+    font-family: 'Kanit', sans-serif;
+}
+#img4 {
+    max-width: 100%;
+    height: auto;
+}
